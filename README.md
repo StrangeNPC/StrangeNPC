@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm StrangeNPC</h1>
-<h3 align="center">Addicted to Insights and solving Business problems!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strangenpc&label=Profile%20views&color=0e75b6&style=flat" alt="strangenpc" /> </p>
+<h3 align="center">Graduate Student @ CU Boulder. Addicted to Insights and solving Business problems!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strangenpc" alt="strangenpc" /></a> </p>
 
-- 🔭 I’m currently working on **Graph Network Science for Fraud**
+- 🔭 I’m currently working on **Graph Network Science, RAG NLP & Recommender Systems**
 
 - 🌱 I’m currently learning **Graph ML, Recommendation Systems, NLP**
 
+- 👨‍💻 All of my projects are available at [https://github.com/StrangeNPC/ProjectDirectory](https://github.com/StrangeNPC/ProjectDirectory)
+
 - 💬 Ask me about **RAG Systems, Network Science**
+
+- 📫 How to reach me **chrisllm29@gmail.com**
 
 - ⚡ Fun fact **I like to read Lovecraft**
 
@@ -24,5 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strangenpc&show_icons=true&locale=en" alt="strangenpc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strangenpc&" alt="strangenpc" /></p>
 
