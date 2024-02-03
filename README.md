@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I like to read Lovecraft**
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/christopher-liew-446425bb/ </h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/christopher-liew-446425bb/ </h3>
 <p align="left">
 </p>
 
